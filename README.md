@@ -18,6 +18,6 @@
     </ul>
     <p>Horking together ;asklfasl;dkfjasl;dfjasl;dkfjasl;dkfjasl;dkfhaskldjfhaskldfhalskdjfaslkdjfhalskdjfh</p>
     <p>Read my uss in <a href="https://www.myus.com/">AHRE</a> and look in this web side for more information pls thank u! next asdasd</p>
-    <script src="main.js"></script>  <!-- Como el html va cargando por orden siempre al final del body va el scrip-->
+    <script src="main.js"></script> 
 </body>
 </html>  
