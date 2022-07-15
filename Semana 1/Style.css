@@ -1,0 +1,48 @@
+
+html{
+    background-color: aqua;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;    
+    border: 2px solid black;
+    border-radius: 2%;
+}
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 2px 2px 1px black;
+    text-align: center;
+}
+img{
+    width: 350px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+p,li{
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: rgb(39, 39, 39);
+    width: 550px;
+    border: 1px solid black;
+}
+/* 
+Height: Altura
+Width: Ancho
+Padding: Relleno
+border: marco
+margin: margen
+Shadow: sombra
+Display: El modo de visualizacion para el elemento
+
+Por ej: margin: 0 auto; Cuando le asigno dos valores el primer valor afecta a los lados top o button y el segundo a los costados right left
+ 
+
+Por ej: Padding: 0 20px 20px 20px; arriba derecha abajo izquierda
+
+text-shadow: 3 3 1 black; desplazamiento horizontal, despla vertical, radio de desenfoque, color
